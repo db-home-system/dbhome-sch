@@ -1,0 +1,6 @@
+
+[display]
+name=DB home display system
+hw_ver=0
+pcb_ver=A
+date=20170826
