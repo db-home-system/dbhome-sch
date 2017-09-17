@@ -2,7 +2,3 @@
 Version=1.0
 [Project1]
 ProjectPath=display\display.PrjPcb
-[Project2]
-ProjectPath=..\..\Desktop\Cadence\Imported LAUNCHXL-CC1310.PrjPcb\LAUNCHXL-CC1310.PrjPcb
-[Project3]
-ProjectPath=..\..\Documents\Altium\Library\Miscellaneous Devices\Miscellaneous Devices.LibPkg
