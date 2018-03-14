@@ -191,6 +191,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NROJLOUV
 
+[Document10]
+DocumentPath=display.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=..\Assembly\display\bom-display.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=..\Assembly\display\Pick Place for display.txt
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
