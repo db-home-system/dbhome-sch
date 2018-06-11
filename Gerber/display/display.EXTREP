@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: display.GBR   11-Jun-18  14:13:01
+Gerber File Extension Report For: display.GBR   11-Jun-18  14:25:24
 ------------------------------------------------------------------------------------------
 
 
@@ -11,6 +11,7 @@ Layer Extension     Layer Description
 .GTS                Top Solder                              
 .GTL                Component Side                          
 .G1                 Inner                                   
+.GP1                GND1                                    
 .GBL                Bottom Layer                            
 .GBS                Solder Side                             
 .GBP                Bottom Paste                            
