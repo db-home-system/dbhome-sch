@@ -1,17 +1,17 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: display.GBR   15-May-18  11:51:11 PM
+Gerber File Extension Report For: display.GBR   11-Jun-18  14:04:52
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
-.GTL                Component Side                          
-.GBL                Bottom Layer                            
-.G1                 Inner                                   
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
 .GTS                Top Solder                              
+.GTL                Component Side                          
+.G1                 Inner                                   
+.GBL                Bottom Layer                            
 .GBS                Solder Side                             
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          

@@ -2,58 +2,6 @@
 FileName = display.GBR
 AutoAperture = True
 *************************************************************
-Generating : Drill Drawing
-      File : display.GD1
-
-    Adding Drill Pair : Component Side-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D206
-    D207
-    D208
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : display.GG1
-
-    Adding Drill Pair : Component Side-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D206
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : display.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-*************************************************************
-
-*************************************************************
 Generating : Outline
       File : display.GM1
 
@@ -61,25 +9,6 @@ Generating : Outline
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : display.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D57
-    D62
-    D195
-    D198
-    D199
 *************************************************************
 
 *************************************************************
@@ -213,6 +142,34 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Drill Drawing
+      File : display.GD1
+
+    Adding Drill Pair : Component Side-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D206
+    D207
+    D208
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : display.GG1
+
+    Adding Drill Pair : Component Side-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D206
+*************************************************************
+
+*************************************************************
 Generating : Solder Side
       File : display.GBS
 
@@ -226,8 +183,8 @@ Generating : Solder Side
 Used DCodes :
     D13
     D19
-    D123
-    D128
+    D91
+    D125
     D157
     D158
     D159
@@ -271,21 +228,6 @@ Used DCodes :
     D192
     D195
     D196
-*************************************************************
-
-*************************************************************
-Generating : PCB_Note
-      File : display.GM7
-
-    Adding Layer      : PCB_Note
-
-
-Used DCodes :
-    D14
-    D15
-    D203
-    D204
-    D205
 *************************************************************
 
 *************************************************************
@@ -383,8 +325,8 @@ Used DCodes :
     D14
     D15
     D19
-    D57
-    D62
+    D24
+    D59
     D157
     D159
     D160
@@ -408,6 +350,64 @@ Used DCodes :
     D197
     D198
     D199
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : display.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D59
+    D195
+    D198
+    D199
+*************************************************************
+
+*************************************************************
+Generating : PCB_Note
+      File : display.GM7
+
+    Adding Layer      : PCB_Note
+
+
+Used DCodes :
+    D14
+    D15
+    D203
+    D204
+    D205
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : display.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
 *************************************************************
 
 *************************************************************

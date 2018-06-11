@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\asterix\Documents\github\dbhome-sch\display\display.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Asterix\Documents\github\dbhome-sch\display\display.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_antenna|Scope=Board|Minimum=-393.70
 RuleKind=ShortCircuit|RuleName=ShortCircuit_antenna|Scope=Board|Allowed=1
 RuleKind=Clearance|RuleName=Clearance_antenna|Scope=Board|Minimum=0.00
