@@ -2,3 +2,7 @@
 Version=1.0
 [Project1]
 ProjectPath=display\display.PrjPcb
+[Project2]
+ProjectPath=display_adapter\display_adapter.PrjPcb
+[Project3]
+ProjectPath=touch\touch.PrjPcb
