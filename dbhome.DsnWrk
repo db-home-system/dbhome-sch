@@ -6,3 +6,5 @@ ProjectPath=display\display.PrjPcb
 ProjectPath=display_adapter\display_adapter.PrjPcb
 [Project3]
 ProjectPath=touch\touch.PrjPcb
+[Project4]
+ProjectPath=ems\ems.PrjPcb
