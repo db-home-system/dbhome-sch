@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: adapter.GBR   12-Sep-18  17:15:55
+Gerber File Extension Report For: adapter.GBR   13-Sep-18  11:07:20
 ------------------------------------------------------------------------------------------
 
 
@@ -16,4 +16,6 @@ Layer Extension     Layer Description
 .GBO                Bottom Overlay                          
 .GM1                Outline                                 
 .GM7                PCB_Note                                
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------

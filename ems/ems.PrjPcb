@@ -94,104 +94,128 @@ DocumentPath=..\Gerber\ems\ems.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\Gerber\ems\ems.EXTREP
+DocumentPath=..\Gerber\ems\ems.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\Gerber\ems\ems.GBL
+DocumentPath=..\Gerber\ems\ems.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\Gerber\ems\ems.GBO
+DocumentPath=..\Gerber\ems\ems.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\Gerber\ems\ems.GBP
+DocumentPath=..\Gerber\ems\ems.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\Gerber\ems\ems.GBS
+DocumentPath=..\Gerber\ems\ems.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\Gerber\ems\ems.GD1
+DocumentPath=..\Gerber\ems\ems.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\Gerber\ems\ems.GG1
+DocumentPath=..\Gerber\ems\ems.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\Gerber\ems\ems.GM1
+DocumentPath=..\Gerber\ems\ems.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\Gerber\ems\ems.GM7
+DocumentPath=..\Gerber\ems\ems.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\Gerber\ems\ems.GTL
+DocumentPath=..\Gerber\ems\ems.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\Gerber\ems\ems.GTO
+DocumentPath=..\Gerber\ems\ems.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\Gerber\ems\ems.GTP
+DocumentPath=..\Gerber\ems\ems.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\Gerber\ems\ems.GTS
+DocumentPath=..\Gerber\ems\ems.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=..\Gerber\ems\ems.LDP
+DocumentPath=..\Gerber\ems\ems.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\Gerber\ems\ems.REP
+DocumentPath=..\Gerber\ems\ems.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\Gerber\ems\ems.RUL
+DocumentPath=..\Gerber\ems\ems.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=..\Gerber\ems\ems.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=..\Gerber\ems\ems.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\Gerber\ems\ems.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\Gerber\ems\ems.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=..\Gerber\ems\ems.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=..\Gerber\ems\ems.TXT
 DItemRevisionGUID=
 
 [Parameter1]
-Name=prj_date
-Value=None - [01/01/2000]
+Name=
+Value=
 
 [Parameter2]
-Name=prj_hw_ver
-Value=None - [0, 1, 2, 3, ...]
+Name=prj_status
+Value=Prototype
 
 [Parameter3]
-Name=prj_license
-Value=None - [GPL, LGPL, MIT, ...]
+Name=prj_pn
+Value=
 
 [Parameter4]
-Name=prj_name
-Value=None - [PROJECT NAME]
+Name=prj_pcb
+Value=A
 
 [Parameter5]
 Name=prj_name_long
-Value=None - [PROJECT NAME LONG]
+Value=DBHome System EMS adapter
 
 [Parameter6]
-Name=prj_pcb
-Value=None - [A, B, C, D, ...]
+Name=prj_name
+Value=EMS_adapter
 
 [Parameter7]
-Name=prj_pn
-Value=None - [P/N, S/N, ...]
+Name=prj_license
+Value=GPLv3
 
 [Parameter8]
-Name=prj_status
-Value=None - [Product, Prototype]
+Name=prj_hw_ver
+Value=0
+
+[Parameter9]
+Name=prj_date
+Value=12/09/2018
 
 [Configuration1]
 Name=Default Configuration
@@ -316,6 +340,16 @@ OutputName21=XSpice Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -327,6 +361,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -948,6 +992,11 @@ Type108=1
 Type109=1
 Type110=1
 Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
 
 [Difference Levels]
 Type1=1
@@ -1012,6 +1061,9 @@ Type59=1
 Type60=1
 Type61=1
 Type62=1
+Type63=1
+Type64=1
+Type65=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1135,6 +1187,7 @@ Type118=3
 Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
+Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

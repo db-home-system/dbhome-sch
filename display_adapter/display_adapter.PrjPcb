@@ -114,39 +114,51 @@ DocumentPath=..\Gerber\display_adapter\adapter.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\Gerber\display_adapter\adapter.GM1
+DocumentPath=..\Gerber\display_adapter\adapter.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\Gerber\display_adapter\adapter.GM7
+DocumentPath=..\Gerber\display_adapter\adapter.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\Gerber\display_adapter\adapter.GTL
+DocumentPath=..\Gerber\display_adapter\adapter.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\Gerber\display_adapter\adapter.GTO
+DocumentPath=..\Gerber\display_adapter\adapter.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\Gerber\display_adapter\adapter.GTP
+DocumentPath=..\Gerber\display_adapter\adapter.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\Gerber\display_adapter\adapter.GTS
+DocumentPath=..\Gerber\display_adapter\adapter.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\Gerber\display_adapter\adapter.LDP
+DocumentPath=..\Gerber\display_adapter\adapter.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\Gerber\display_adapter\adapter.REP
+DocumentPath=..\Gerber\display_adapter\adapter.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
+DocumentPath=..\Gerber\display_adapter\adapter.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=..\Gerber\display_adapter\adapter.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
 DocumentPath=..\Gerber\display_adapter\adapter.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=..\Gerber\display_adapter\adapter.TXT
 DItemRevisionGUID=
 
 [Parameter1]
@@ -802,6 +814,36 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

@@ -2,60 +2,29 @@
 FileName = adapter.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : adapter.GBP
+Generating : Drill Drawing
+      File : adapter.GD1
 
-    Adding Layer      : Bottom Paste
+    Adding Drill Pair : Top Layer-Bottom Layer
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
+    D21
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : adapter.GTP
+Generating : Drill Guide
+      File : adapter.GG1
 
-    Adding Layer      : Top Paste
+    Adding Drill Pair : Top Layer-Bottom Layer
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Drill Guide
 
 
 Used DCodes :
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : PCB_Note
-      File : adapter.GM7
-
-    Adding Layer      : PCB_Note
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : adapter.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
+    D21
 *************************************************************
 
 *************************************************************
@@ -67,17 +36,6 @@ Generating : Top Overlay
 
 Used DCodes :
     D10
-*************************************************************
-
-*************************************************************
-Generating : Outline
-      File : adapter.GM1
-
-    Adding Layer      : Outline
-
-
-Used DCodes :
-    D16
 *************************************************************
 
 *************************************************************
@@ -97,8 +55,39 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : adapter.GBL
+Generating : PCB_Note
+      File : adapter.GM7
+
+    Adding Layer      : PCB_Note
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : adapter.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : adapter.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -106,6 +95,8 @@ Generating : Bottom Layer
 
 
 Used DCodes :
+    D11
+    D12
 *************************************************************
 
 *************************************************************
@@ -116,6 +107,7 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
+    D10
 *************************************************************
 
 *************************************************************
@@ -131,5 +123,49 @@ Used DCodes :
     D11
     D12
     D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : adapter.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : adapter.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : adapter.GM1
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D17
 *************************************************************
 

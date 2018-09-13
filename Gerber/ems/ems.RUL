@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\asterix\Documents\github\dbhome-sch\ems\ems.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Asterix\Documents\github\dbhome-sch\ems\ems.PcbDoc
 RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=25.59
 RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=25.59
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_via|Scope=Board|Minimum=-393.70
