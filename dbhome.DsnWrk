@@ -8,3 +8,5 @@ ProjectPath=display_adapter\display_adapter.PrjPcb
 ProjectPath=touch\touch.PrjPcb
 [Project4]
 ProjectPath=ems\ems.PrjPcb
+[Project5]
+ProjectPath=esp8266sensor\esp8266sensor.PrjPcb
