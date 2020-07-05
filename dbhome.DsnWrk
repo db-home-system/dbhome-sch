@@ -10,3 +10,5 @@ ProjectPath=touch\touch.PrjPcb
 ProjectPath=ems\ems.PrjPcb
 [Project5]
 ProjectPath=esp8266sensor\esp8266sensor.PrjPcb
+[Project6]
+ProjectPath=relay_ac\relay_ac.PrjPcb

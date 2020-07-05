@@ -113,7 +113,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -122,6 +122,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUDVYLFK
+
+[Document6]
+DocumentPath=..\..\..\..\Dropbox\cadlib\protel\libraries\develer_library.schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AGDBCJEB
 
 [ProjectVariant1]
 UniqueID=66E0BDE9-8E17-45FE-9289-49548DDD95AF
@@ -142,72 +159,72 @@ Variation10=Designator=R97|UniqueId=\PEULCEIF\ZETFWZBV\BAZUAKJR|Kind=1|Alternate
 ParamVariationCount=0
 
 [SearchPath1]
-Path=..\..\..\..\..\Dropbox\cadlib\protel\libraries\*.*
+Path=..\..\..\..\Dropbox\cadlib\protel\libraries\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=prj_status
-Value=Prototype
+Name=pcb_finish
+Value=HASL
 
 [Parameter2]
-Name=prj_pn
-Value=-
-
-[Parameter3]
-Name=prj_pcb
-Value=A
-
-[Parameter4]
-Name=prj_panel_name
-Value=relay_ac_panel
-
-[Parameter5]
-Name=prj_name_long
-Value=AC Relay Module for wemos D1
-
-[Parameter6]
-Name=prj_name
-Value=relay_ac
-
-[Parameter7]
-Name=prj_license
-Value=Copyright Daniele Basile <asterix24@gmail.com>
-
-[Parameter8]
-Name=prj_hw_ver
-Value=0
-
-[Parameter9]
-Name=prj_date
-Value=28/06/2020
-
-[Parameter10]
-Name=prj_customer
-Value=DBHome
-
-[Parameter11]
-Name=pcb_stackup
-Value=Default
-
-[Parameter12]
-Name=pcb_solder_color
-Value=GREEN
-
-[Parameter13]
-Name=pcb_silkscreen_color
-Value=WHITE
-
-[Parameter14]
-Name=pcb_material
-Value=FR4-Standard Tg 130-140C
-
-[Parameter15]
 Name=pcb_layer_count
 Value=2
 
+[Parameter3]
+Name=pcb_material
+Value=FR4-Standard Tg 130-140C
+
+[Parameter4]
+Name=pcb_silkscreen_color
+Value=WHITE
+
+[Parameter5]
+Name=pcb_solder_color
+Value=GREEN
+
+[Parameter6]
+Name=pcb_stackup
+Value=Default
+
+[Parameter7]
+Name=prj_customer
+Value=DBHome
+
+[Parameter8]
+Name=prj_date
+Value=28/06/2020
+
+[Parameter9]
+Name=prj_hw_ver
+Value=0
+
+[Parameter10]
+Name=prj_license
+Value=Copyright Daniele Basile <asterix24@gmail.com>
+
+[Parameter11]
+Name=prj_name
+Value=relay_ac
+
+[Parameter12]
+Name=prj_name_long
+Value=AC Relay Module for wemos D1
+
+[Parameter13]
+Name=prj_panel_name
+Value=relay_ac_panel
+
+[Parameter14]
+Name=prj_pcb
+Value=A
+
+[Parameter15]
+Name=prj_pn
+Value=-
+
 [Parameter16]
-Name=pcb_finish
-Value=HASL
+Name=prj_status
+Value=Prototype
 
 [Configuration1]
 Name=Default Configuration
@@ -883,36 +900,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
