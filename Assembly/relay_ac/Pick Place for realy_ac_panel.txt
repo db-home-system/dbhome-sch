@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\Asterix\Documents\github\dbhome-sch\Assembly\relay_ac\Pick Place for realy_ac_panel.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15-07-20
+Time:       23:42
+Revision:   ac59a540b1a86e3a6e97890d054d364a42b970df
+Variant:    No variations
+Units used: mm
+
+Designator Comment Layer       Footprint            Center-X(mm) Center-Y(mm) Rotation Description 
+Fiducial4  Comment BottomLayer Fiducial_mark_nosilk 5.8000       0.6000       0        ""          
+Fiducial3  Comment TopLayer    Fiducial_mark_nosilk 5.8000       0.6000       0        ""          
+Fiducial2  Comment BottomLayer Fiducial_mark_nosilk 5.8000       98.2000      0        ""          
+Fiducial1  Comment TopLayer    Fiducial_mark_nosilk 5.8000       98.2000      0        ""          
+Fiducial5  Comment BottomLayer Fiducial_mark_nosilk 123.0000     98.2000      0        ""          
+Fiducial0  Comment TopLayer    Fiducial_mark_nosilk 123.0000     98.2000      0        ""          
